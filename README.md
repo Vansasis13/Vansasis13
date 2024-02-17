@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/ivan-sitanggang-)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ### Github Statistic
 <p align="left">
